@@ -11,7 +11,7 @@
 * build from github
 
 ```
-docker build -t my-phpredisadmin github.com/maxivak/docker-image-phpredisadmin.git
+docker build -t my-phpredisadmin github.com/maxivak/docker-phpredisadmin.git
 ```
 
 * or download and build locally
