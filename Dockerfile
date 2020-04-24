@@ -1,4 +1,4 @@
-FROM composer/composer
+FROM composer:1.7
 
 RUN git clone https://github.com/erikdubbelboer/phpRedisAdmin.git /src/app
 WORKDIR /src/app
